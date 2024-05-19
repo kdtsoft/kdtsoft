@@ -33,13 +33,13 @@ I am Kamaladhon Tangchangya. I'm currently working on Mobile Development more th
 <tr>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdtsoft&layout=donut&theme=dark)
 
 </td>
 
 <td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdtsoft&show_icons=true&theme=dark)
 
 </td>
 </tr>
